@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b9d176ae.css",
+    "main.js": "/static/js/main.b70081a5.js",
+    "static/js/224.610e3de5.chunk.js": "/static/js/224.610e3de5.chunk.js",
+    "static/js/507.dc40a6e3.chunk.js": "/static/js/507.dc40a6e3.chunk.js",
+    "static/js/898.464e35fa.chunk.js": "/static/js/898.464e35fa.chunk.js",
+    "static/js/15.bf697e05.chunk.js": "/static/js/15.bf697e05.chunk.js",
+    "static/js/252.e4d4e765.chunk.js": "/static/js/252.e4d4e765.chunk.js",
+    "static/js/453.4f5a16c7.chunk.js": "/static/js/453.4f5a16c7.chunk.js",
+    "static/js/441.6cbedddb.chunk.js": "/static/js/441.6cbedddb.chunk.js",
+    "static/js/976.8bddb4f7.chunk.js": "/static/js/976.8bddb4f7.chunk.js",
+    "static/js/481.27fed7eb.chunk.js": "/static/js/481.27fed7eb.chunk.js",
+    "static/media/error.gif": "/static/media/error.8d0416e7188ac6158ec1.gif",
+    "static/media/creatorbackground-1.jpeg": "/static/media/creatorbackground-1.33388748085f048a912d.jpeg",
+    "static/media/nft-image-1.png": "/static/media/nft-image-1.501744b97da258c84cca.png",
+    "static/media/nft.png": "/static/media/nft.5b783f108cec0fec38d7.png",
+    "static/media/nft-image-2.png": "/static/media/nft-image-2.10c7d423c1e4690365b2.png",
+    "static/media/nft-image-3.png": "/static/media/nft-image-3.fa9c66aca58df7c6d18e.png",
+    "static/media/load.gif": "/static/media/load.dde8ee59a81a31c80a03.gif",
+    "static/media/user-1.png": "/static/media/user-1.772539864e3e9d93b9ca.png",
+    "index.html": "/index.html",
+    "main.b9d176ae.css.map": "/static/css/main.b9d176ae.css.map",
+    "main.b70081a5.js.map": "/static/js/main.b70081a5.js.map",
+    "507.dc40a6e3.chunk.js.map": "/static/js/507.dc40a6e3.chunk.js.map",
+    "898.464e35fa.chunk.js.map": "/static/js/898.464e35fa.chunk.js.map",
+    "15.bf697e05.chunk.js.map": "/static/js/15.bf697e05.chunk.js.map",
+    "252.e4d4e765.chunk.js.map": "/static/js/252.e4d4e765.chunk.js.map",
+    "453.4f5a16c7.chunk.js.map": "/static/js/453.4f5a16c7.chunk.js.map",
+    "441.6cbedddb.chunk.js.map": "/static/js/441.6cbedddb.chunk.js.map",
+    "976.8bddb4f7.chunk.js.map": "/static/js/976.8bddb4f7.chunk.js.map",
+    "481.27fed7eb.chunk.js.map": "/static/js/481.27fed7eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9d176ae.css",
+    "static/js/main.b70081a5.js"
+  ]
+}
